@@ -5,7 +5,7 @@
  <img width=200px height=200px src="https://static.vecteezy.com/system/resources/previews/022/100/806/original/netflix-logo-transparent-free-png.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Netflix-clone</h3>
+<h3 align="center">Netflix-Clone</h3>
 
 
 <p align="center"> I have created Netflix-Clone React Project. Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.
