@@ -22,17 +22,18 @@
 ## 🧐 About <a name = "about"></a>
 The objective of a Netflix clone is to provide quality video content and a seamless user experience..The Netflix clone project's primary objective is to offer users a familiar and enjoyable streaming experience similar to Netflix. It seeks to deliver seamless navigation, personalized content recommendations, and a user-friendly interface that makes discovering and watching movies and shows easy and engaging. By replicating the success of Netflix while possibly incorporating unique features and improvements, the project aims to cater to entertainment enthusiasts worldwide and become a go-to platform for their viewing pleasure.
 
-![Screenshot (14)](https://github.com/Manisha8866/netflix-clone-project/assets/128820670/e4fc2a7b-f83a-40a3-8d9e-3ab8e941bda4)
+![Screenshot (19)](https://github.com/Manisha8866/netflix-app/assets/128820670/ea1dbf46-c08f-4339-9c55-cc606fe5dbb8)
 
-![Screenshot (19)](https://github.com/Manisha8866/netflix-clone-project/assets/128820670/b2fc52b8-5570-4a5e-b204-506e0b216ee8)
+![Screenshot (14)](https://github.com/Manisha8866/netflix-app/assets/128820670/331e6935-7fbf-481b-be28-82d65f7f1bcc)
 
-![Screenshot (10)](https://github.com/Manisha8866/netflix-clone-project/assets/128820670/f59ed159-e520-4c30-bcd1-ce0acb589fda)
+![Screenshot (10)](https://github.com/Manisha8866/netflix-app/assets/128820670/e2d98f14-604a-4850-aa5d-bd1c3405e445)
 
-![Screenshot (15)](https://github.com/Manisha8866/netflix-clone-project/assets/128820670/42c6378e-c35e-4a4e-84ad-23bb57043559)
+![Screenshot (15)](https://github.com/Manisha8866/netflix-app/assets/128820670/d43950ad-bbed-4ebd-a991-7f1394f8d334)
 
-![Screenshot (8)](https://github.com/Manisha8866/netflix-clone-project/assets/128820670/4b473820-f2d1-4778-b92e-17de13d129dd)
+![Screenshot (8)](https://github.com/Manisha8866/netflix-app/assets/128820670/b2aa9894-e7a4-4c34-b0ad-3f6b810d9c75)
 
-![Screenshot (16)](https://github.com/Manisha8866/netflix-clone-project/assets/128820670/de22bc56-621c-4e05-a505-024e53fca42a)
+![Screenshot (16)](https://github.com/Manisha8866/netflix-app/assets/128820670/a9d5bee9-e118-4cca-a94a-677da565e027)
+
 
 ### Prerequisites
 ```
