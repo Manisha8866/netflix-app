@@ -62,8 +62,8 @@ and more while charging the users a monthly subscription fee.
 
 I have deployed my frontend application on vercel and bankend application on render. 
 ```
-frontend URL: 
-backend URL: 
+frontend URL: https://netflix-app-fawn.vercel.app/
+backend URL: https://netflix-3uf5.onrender.com
 
 ```
 
